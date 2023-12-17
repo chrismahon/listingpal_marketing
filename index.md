@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "A toolkit for Estate Agents"
 ---
 
-## You're ready to go!
-
-Start developing your Jekyll website.
+<div class="w-full max-w-xl m-auto p-8 flex flex-col gap-8">
+<img src="/assets/images/logo.svg" class="w-auto h-28">
+</div>
