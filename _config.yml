@@ -1,5 +1,5 @@
 url: "https://chrismahon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "listing_marketing" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 title: "" # the name of your site, e.g. ACME Corp.
 plugins:
   - jekyll-postcss
